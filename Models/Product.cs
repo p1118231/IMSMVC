@@ -39,4 +39,8 @@ public class Product
     [Display(Name = "Restock Date")]
     [DataType(DataType.Date)]
     public DateTime? ExpectedRestock { get; set; }
+
+
+    [Required]
+    public int Quantity{get; set;}
 }
