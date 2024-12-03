@@ -1,5 +1,11 @@
+/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/publish/web.config
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/appsettings.Development.json
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/appsettings.json
+/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/publish/appsettings.Development.json
+/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/publish/appsettings.json
+/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/publish/IMSMVC.deps.json
+/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/publish/IMSMVC.runtimeconfig.json
+/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/publish/IMSMVC.staticwebassets.endpoints.json
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/IMSMVC.staticwebassets.runtime.json
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/IMSMVC.staticwebassets.endpoints.json
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/bin/Debug/net9.0/IMSMVC
@@ -278,6 +284,7 @@
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/scopedcss/bundle/IMSMVC.styles.css
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/scopedcss/projectbundle/IMSMVC.bundle.scp.css
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/compressed/2d0du2hhjs-0wb1d1dp1t.gz
+/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/compressed/7fniqdekl1-dd23kzxam3.gz
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/compressed/pigmyrt494-b9sayid5wm.gz
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/compressed/c383ioqto0-61n19gt1b8.gz
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/compressed/q54kogktiy-xtxxf3hu2r.gz
@@ -357,4 +364,3 @@
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/IMSMVC.pdb
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/IMSMVC.genruntimeconfig.cache
 /Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/ref/IMSMVC.dll
-/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/obj/Debug/net9.0/compressed/7fniqdekl1-dd23kzxam3.gz
