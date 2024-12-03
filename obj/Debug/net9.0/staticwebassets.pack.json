@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets/IMSMVC.puaq69p9sk.bundle.scp.css"
     },
     {
+      "Id": "/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/wwwroot/css/dashboard.css",
+      "PackagePath": "staticwebassets/css/dashboard.css"
+    },
+    {
+      "Id": "/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/wwwroot/css/signin.css",
+      "PackagePath": "staticwebassets/css/signin.css"
+    },
+    {
       "Id": "/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/wwwroot/images/ims_transparent-.png",
+      "PackagePath": "staticwebassets/images/ims_transparent-.png"
     },
     {
       "Id": "/Users/breezy/Documents/breezy/third_year/IMS/IMSMVC/wwwroot/js/site.js",
